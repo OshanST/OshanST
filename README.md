@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oshanst&label=Profile%20views&color=0e75b6&style=flat" alt="oshanst" /> </p>
 
+---
+
 - 🌱 I’m currently learning **in Uva Wellassa University**
 
 - 📫 How to reach me **oshannilushka27@gmail.com**
