@@ -31,8 +31,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/OshanST/OshanST/edit/main/README.md">
-  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&theme=gruvbox&hide_border=true" />                 
-    <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindhya-Hansamali&theme=gruvbox&hide_border=true" />
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=Oshan Nilushka&show_icons=true&theme=gruvbox&hide_border=true" />                 
+    <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oshan Nilushka&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
@@ -43,7 +43,7 @@
 <p align="left">
   <a "https://github.com/OshanST/OshanST/edit/main/README.md">
   <img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight"/>
-    <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindhya-Hansamali&theme=react-dark&hide_border=true&area=true" />
+    <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oshan Nilushka&theme=react-dark&hide_border=true&area=true" />
   </a>
 </p>
 
@@ -53,19 +53,19 @@
 <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://linkedin.com/in/kavindhya hansamali" target="blank"><img align="center"
+      <a href="https://linkedin.com/in/Oshan Nilushka" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.facebook.com/share/15XYHi87UV/?mibextid=wwXIfr" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="kavindhyahansamali227@gmail.com" target="blank"><img align="center"
+      <a href="oshannilushka27@gmail.co" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   
 -----
-Credits: [Kavindhya_Hansamali](https://github.com/Kavindhya-Hansamali/Kavindhya-Hansamali/edit/main/README.md)
+Credits: [Oshan Nilushka](https://github.com/OshanST/OshanST/edit/main/README.md)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
