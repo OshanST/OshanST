@@ -42,7 +42,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="left">
   <a "https://github.com/OshanST/OshanST/edit/main/README.md">
-  <img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight"/>
+  <img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=Oshan-Nilushka&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight"/>
     <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oshan Nilushka&theme=react-dark&hide_border=true&area=true" />
   </a>
 </p>
@@ -56,9 +56,7 @@
       <a href="https://linkedin.com/in/Oshan Nilushka" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://www.facebook.com/share/15XYHi87UV/?mibextid=wwXIfr" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
+      
       <a href="oshannilushka27@gmail.co" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
