@@ -56,15 +56,18 @@
       <a href="https://linkedin.com/in/Oshan Nilushka" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      
-      <a href="oshannilushka27@gmail.co" target="blank"><img align="center"
+      <a href="oshannilushka27@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
+</p>
+  
   
 -----
-Credits: [Oshan Nilushka](https://github.com/OshanST/OshanST/edit/main/README.md)
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+Credits: [Oshan Nilushka](https://github.com/OshanST/OshanST/edit/main/README.md)
